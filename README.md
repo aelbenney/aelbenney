@@ -1,6 +1,7 @@
 
 <h1 align="center">Hey 👋, I'm Anas Elbenney</h1>
 <h4 align="center">A full stack sofwtare Engineer</h4>
+<a href="https://app.daily.dev/AnasBn"><img src="https://api.daily.dev/devcards/b903e43a494a4bf0b313d5fc0671e5dd.png?r=7f2" width="400" alt="Anas's Dev Card"/></a>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=aelbenney"/></div>
 
